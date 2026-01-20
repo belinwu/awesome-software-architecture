@@ -55,6 +55,7 @@
 - [Compiled Queries with Marten](https://jeremydmiller.com/2023/07/12/compiled-queries-with-marten/)
 - [Vertical Slice Architecture in ASP.NET Core](https://blog.ndepend.com/vertical-slice-architecture-in-asp-net-core/) ⭐
 - [There is no template for vertical slicing](https://www.dateo-software.de/blog/no-vertical-slicing-template)
+- [My thoughts on Vertical Slices, CQRS, Semantic Diffusion and other fancy words](https://www.architecture-weekly.com/p/my-thoughts-on-vertical-slices-cqrs) ⭐
 
 ## 📺 Videos
 - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)

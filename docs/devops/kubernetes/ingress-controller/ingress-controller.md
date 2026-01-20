@@ -8,6 +8,7 @@
 - [Exposing Kubernetes Applications, Part 1: Service and Ingress Resources](https://aws.amazon.com/blogs/containers/exposing-kubernetes-applications-part-1-service-and-ingress-resources/) ⭐
 - [Exposing Kubernetes Applications, Part 2: AWS Load Balancer Controller](https://aws.amazon.com/blogs/containers/exposing-kubernetes-applications-part-2-aws-load-balancer-controller/)
 - [Exposing Kubernetes Applications, Part 3: Ingress-Nginx Controller](https://aws.amazon.com/blogs/containers/exposing-kubernetes-applications-part-3-nginx-ingress-controller/)
+- [Deploying an Ingress and Reverse Proxy](https://hansgaron.com/articles/microservices/adding_an_ingress/)
 
 ## 📺 Videos
 - [Kubernetes Ingress Explained for Beginners](https://www.youtube.com/watch?v=izWCkcJAzBw)

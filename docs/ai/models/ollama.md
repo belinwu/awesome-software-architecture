@@ -11,6 +11,7 @@
 - [Embedding models](https://ollama.com/blog/embedding-models)
 - [An entirely open-source AI code assistant inside your editor](https://ollama.com/blog/continue-code-assistant)
 - [Use Ollama with any GGUF Model on Hugging Face Hub](https://huggingface.co/docs/hub/en/ollama)
+- [Thinking in ollama](https://ollama.com/blog/thinking)
 
 ## Videos
 - [Importing Open Source Models to Ollama](https://www.youtube.com/watch?v=fnvZJU5Fj3Q)

@@ -60,6 +60,7 @@
 - [Event modelling anti-patterns explained](https://event-driven.io/en/anti-patterns/)
 - [Event-driven architecture on the modern stack of Java technologies](https://romankudryashov.com/blog/2024/07/event-driven-architecture)
 - [Simple patterns for events schema versioning](https://event-driven.io/en/simple_events_versioning_patterns/) ⭐
+- [Handling Events Coming in an Unknown Order](https://event-driven.io/en/strict_ordering_in_event_handling/)
 
 ## 📺 Videos
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) 

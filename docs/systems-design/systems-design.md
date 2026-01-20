@@ -3,9 +3,13 @@
 
 ## 📘 Resources
 
-- [System Design Weekly Newsletter](https://newsletter.systemdesign.one/) - A resource to help you learn system design.
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you pass system design interview and become good at work
-- [SystemDesignSchool WebSite](https://systemdesignschool.io/problems)
+- [systemdesignone](https://systemdesign.one/)
+- [hellointerview.com](https://www.hellointerview.com)
+- [systemdesignclassroom.com](https://systemdesignclassroom.com/)
+- [grokkingthesystemdesign.com](https://grokkingthesystemdesign.com/)
+- [systemdesigncodex.com](https://systemdesigncodex.com/)
+- [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - Newsletter to help busy software engineers become good at system design
+- [systemdesignschool.io](https://systemdesignschool.io/problems)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
@@ -23,6 +27,7 @@
 - [CodingChallenges WebSite](https://codingchallenges.fyi/challenges/intro)
 - [IGotAnOffer-Engineering Youtube Channel](https://www.youtube.com/@IGotAnOffer-Engineering)
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources
+- [codeKarle](https://www.youtube.com/channel/UCZEfiXy7PmtVTezYUvc4zZw)
 
 ## Courses
 - [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
@@ -63,7 +68,6 @@
 - [Basics of System Design](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u) 
 - [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) 
 - [System Design And Interview](https://www.youtube.com/c/interviewingio/videos) 
-- [codeKarle](https://www.youtube.com/channel/UCZEfiXy7PmtVTezYUvc4zZw)
 - [System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV) 
 - [Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) 
 - [Grokking the System Design Interview](https://www.youtube.com/playlist?list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL)

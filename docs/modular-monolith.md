@@ -45,6 +45,7 @@
 - [Modular Monolith - A Gentle Introduction](https://www.dandoescode.com/blog/modular-monolith/a-gentle-introduction)
 - [Modular Monolith - Implementation Deep Dive](https://www.dandoescode.com/blog/modular-monolith/implementation-deep-dive)
 - [Modular Monolith - Simplifying the Inner Development Loop with .NET Aspire](https://www.dandoescode.com/blog/modular-monolith/simplifying-the-inner-dev-loop-with-aspire)
+- [A Practical Guide to Modular Monoliths with .NET](https://chrlschn.dev/blog/2024/01/a-practical-guide-to-modular-monoliths/) ⭐
 
 ## 📺 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
@@ -67,6 +68,7 @@
 - [Splitting up a Monolith to (micro)Services](https://www.youtube.com/watch?v=Inscvakv5XI)
 - [Avoiding a Big Ball of Mud! Coupling in a Monolith](https://www.youtube.com/watch?v=MLjjWkN44q4)
 - [Building that glorious monolith. And carving it too. - Glenn F. Henriksen - NDC Oslo 2022](https://youtu.be/uOIi0K_mpUo) ⭐ 
+- [A Practical Guide to Modular Monoliths with .NET - Build Web Scale Monolithic Architectures](https://www.youtube.com/watch?v=VEggfW0A_Oo) ⭐
 
 ## 🚀 Samples
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
@@ -103,3 +105,4 @@
 - [kamilbaczek/Modular-monolith-by-example](https://github.com/kamilbaczek/Modular-monolith-by-example) - Modular monolith architecture example in .NET. Estimation Tool is tool to optimize estimation process in IT company.
 - [PeterKneale/modular_monolith_saas](https://github.com/PeterKneale/modular_monolith_saas)
 - [youssefbennour/AspNetCore.Starter](https://github.com/youssefbennour/AspNetCore.Starter) - A modular-monolith ASP.NET Core starter inspired by Evolutionary-architecture
+- [CharlieDigital/dn8-modular-monolith](https://github.com/CharlieDigital/dn8-modular-monolith) ⭐ - A practical example of how to build modular monoliths ("momo") with .NET 8

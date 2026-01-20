@@ -72,8 +72,6 @@ I created this repository to share a set of links that I found valuable and insp
   - [Modeling](#modeling)
   - [Open Source](#open-source)
   - [Code Review](#code-review)
-  - [Interview](#interview)
-  - [Architecture Decision Records (ADR)](#architecture-decision-records-adr)
   - [Micro-Frontend](#micro-frontend)
   - [Others](#others)
 - [🙏 Special Thanks](#-special-thanks)
@@ -594,17 +592,6 @@ I created this repository to share a set of links that I found valuable and insp
 | :--------------------------------: | :---------- |
 | [Code Review](docs/code-review.md) | TODO...     |
 
-### Interview
-
-|             Topic              | Description |
-| :----------------------------: | :---------- |
-| [Interview](docs/interview.md) | TODO...     |
-
-### Architecture Decision Records (ADR)
-
-|                       Topic                        | Description |
-| :------------------------------------------------: | :---------- |
-| [Architecture Decision Records (ADR)](docs/adr.md) | TODO...     |
 
 ### Micro-Frontend
 

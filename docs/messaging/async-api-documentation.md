@@ -5,6 +5,7 @@
 - [AsyncAPI – Documentation of event- and message-driven architectures](https://blog.codecentric.de/en/2021/09/asyncapi-documentation-event-message-driven-architectures/)
 - [An introduction to the AsyncAPI specification](https://dev.to/eminetto/an-introduction-to-the-asyncapi-specification-4m6d)
 - [DOCUMENT YOUR EVENT-DRIVEN ARCHITECTURE](https://serverlessland.com/event-driven-architecture/visuals/document-event-driven-architectures)
+- [EventCatalog — The Missing Piece to Your Event-Driven Application](https://itnext.io/eventcatalog-the-missing-piece-to-your-event-driven-application-d74bc4386a6a) ⭐
 
 ## 📺 Videos
 - [Design-First for Event Driven APIs with AsyncAPI](https://www.youtube.com/watch?v=jKSZfD66zKM)

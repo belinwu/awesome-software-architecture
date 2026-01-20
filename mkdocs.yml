@@ -62,12 +62,14 @@ nav:
   - Akka .NET: actor-model-architecture/akka-net.md
   - Orleans: actor-model-architecture/orleans.md
   - Protoactor: actor-model-architecture/protoactor.md
-- Architecture Documententation:
-  - ADR: architecture-documententation/adr.md
-  - C4: architecture-documententation/c4.md
+- Architecture Documententation: architecture-documententation.md
 - AI:
+    A2A: ai/a2a.md
     AI: ai/ai.md
+    Agents: ai/agent.md
+    Microsoft Agent Framework: ai/agent-framework.md
     Embedding & Vector: ai/embedding-vector.md
+    Code Assistants: ai/code-assistants.md
     LangChain: ai/langchain.md
     Model Context Protocol (MCP): ai/mcp.md
     Models:
@@ -108,7 +110,6 @@ nav:
   - Single Responsibility: architectural-design-principles/single-responsibility.md
   - SOLID: architectural-design-principles/solid.md
   - YAGNI: architectural-design-principles/yagni.md
-- Architecture Decision Records (ADR): adr.md
 - Azure Cloud:
   - Azure API Management: azure/azure-api-management.md
   - Azure App Configuration: azure/azure-configuration.md
@@ -270,7 +271,6 @@ nav:
   - Nomad: iaas/nomad.md
   - Pulumi: iaas/pulumi.md
   - Terraform: iaas/terraform.md
-- Interview: interview.md
 - Messaging:
   - Async APIs Documentation: messaging/async-api-documentation.md
   - Azure Service Bus: azure/messaging/azure-service-bus.md

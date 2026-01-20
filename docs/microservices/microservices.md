@@ -275,6 +275,7 @@
 - [foxminchan/BookWorm](https://github.com/foxminchan/BookWorm) - The practical implementation of .NET Aspire using Microservices
 - [foxminchan/CoolShop](https://github.com/foxminchan/CoolShop) - A cloud-native e-commerce app built on Dapr and Aspire
 - [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) - eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more.
+- [mehmetozkaya/eshop-distributed](https://github.com/mehmetozkaya/eshop-distributed) - Develop AI-Powered Distributed Architectures using .NET Aspire and GenAI to develop EShop Catalog and Basket microservices integrate with Backing services including PostgreSQL, Redis, RabbitMQ, Keycloak, Ollama and Semantic Kernel to Create Intelligent E-Shop Solutions.
 
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)

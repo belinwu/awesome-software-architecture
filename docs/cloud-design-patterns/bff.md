@@ -20,6 +20,7 @@
 - [Implement a secure web application using nx Standalone Angular and an ASP.NET Core server](https://damienbod.com/2023/09/11/implement-a-secure-web-application-using-nx-standalone-angular-and-an-asp-net-core-server/)
 - [BFF secured ASP.NET Core application using downstream API and an OAuth client credentials JWT](https://damienbod.com/2024/04/08/bff-secured-asp-net-core-application-using-downstream-api-and-an-oauth-client-credentials-jwt/)
 - [Using YARP as BFF within .NET Aspire: Integrating YARP into .NET Aspire](https://timdeschryver.dev/blog/integrating-yarp-within-dotnet-aspire)
+- [Secure your Yarp BFF with cookie-based authentication](https://timdeschryver.dev/blog/secure-your-yarp-bff-with-cookie-based-authentication)
 
 ## 📺 Videos
 - [JetBrains webinar with Dominick Baier: Securing SPAs and Blazor Applications using the BFF (Backend for Frontend) Pattern](https://www.youtube.com/watch?v=DdNssiaIY_Q)

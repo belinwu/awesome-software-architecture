@@ -181,6 +181,8 @@
 - [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example) - A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.
 - [bravecobra/k8s-dev-infrastructure](https://github.com/bravecobra/k8s-dev-infrastructure) - A local dev infrastructure on k8s, providing networking, telemetry and saas services
 - [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) ⭐ - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments
+- [Azure-Samples/aks-store-demo](https://github.com/Azure-Samples/aks-store-demo) ⭐ - Sample microservices app for AKS demos, tutorials, and experiments
+- [asimmon/local-kubernetes-setup](https://github.com/asimmon/local-kubernetes-setup) - Setup a local Kubernetes cluster on any OS with TLS support and nginx as an ingress controller to deploy services on local trusted domains.
 
 ## 📚 Books
 - [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://www.amazon.com/Kubernetes-Patterns-Designing-Cloud-Native-Applications/dp/1492050288)
